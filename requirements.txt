@@ -4,6 +4,6 @@ pinecone-client
 langchain
 flask
 pypdf
-dotenv
+python-dotenv
 
 -e .
