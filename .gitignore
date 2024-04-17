@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 model/llama-2-7b-chat.Q6_K.gguf
+model/llama-2-7b-chat.Q5_K_M.gguf
 data/Medical_book.pdf
