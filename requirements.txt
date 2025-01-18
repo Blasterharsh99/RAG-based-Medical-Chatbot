@@ -7,3 +7,4 @@ pypdf
 python-dotenv
 
 -e .
+transformers>=4.48.0 # not directly required, pinned by Snyk to avoid a vulnerability
